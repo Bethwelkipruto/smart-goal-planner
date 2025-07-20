@@ -1,3 +1,4 @@
+https://bethwelkipruto.github.io/smart-goal-planner/
 # Smart Goal Planner
 
 A professional and user-friendly Smart Goal Planner built with React and JSON Server. This app helps users set, track, update, and delete their financial savings goals.
