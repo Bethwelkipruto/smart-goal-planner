@@ -1,4 +1,4 @@
-/* App.css */
+
 
 body {
   margin: 0;
@@ -13,7 +13,7 @@ body {
   color: rgb(247, 203, 127);
 }
 
-/* Overlay effect */
+
 .overlay {
   background-color: white;
   min-height: 100vh;

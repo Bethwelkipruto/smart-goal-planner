@@ -14,7 +14,7 @@ function DepositForm({ goals, onUpdateGoal }) {
 
     onUpdateGoal(goalId, { savedAmount: updatedAmount });
 
-    // Reset form
+   
     setGoalId('');
     setAmount('');
   }

@@ -23,7 +23,7 @@ function GoalCard({ goal, onDeleteGoal }) {
       <p><strong>Deadline:</strong> {deadline}</p>
       <p><strong>Created:</strong> {createdAt}</p>
 
-      {/* Progress bar */}
+      
       <div style={{ background: '#eee', height: '15px', width: '100%' }}>
         <div
           style={{
