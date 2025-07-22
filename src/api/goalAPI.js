@@ -1,4 +1,4 @@
-const API_URL = "https://json-server-vercel-eight-umber.vercel.app/goals";
+const API_URL = "http://localhost:3000/goals";
 
 export async function fetchGoals() {
   const res = await fetch(API_URL);
